@@ -1,0 +1,9 @@
+README.md
+setup.py
+sparkbasics.egg-info/PKG-INFO
+sparkbasics.egg-info/SOURCES.txt
+sparkbasics.egg-info/dependency_links.txt
+sparkbasics.egg-info/not-zip-safe
+sparkbasics.egg-info/top_level.txt
+src/main/python/__init__.py
+src/main/python/main.py
